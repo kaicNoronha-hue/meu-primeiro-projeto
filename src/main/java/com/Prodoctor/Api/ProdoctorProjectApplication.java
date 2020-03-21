@@ -8,6 +8,7 @@ public class ProdoctorProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ProdoctorProjectApplication.class, args);
+		System.out.println("Meu primeiro Projeto");
 	}
 
 }
